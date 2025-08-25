@@ -1,21 +1,21 @@
-```
+# Portfólio  
 
-#Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+Olá, bem-vindo(a) ao meu projeto de portfólio! 🚀  
 
-![imagem]![capa-site](https://github.com/user-attachments/assets/63540337-6300-4a7e-a7c1-e9e07ca05bb3)
+![capa-site](https://github.com/user-attachments/assets/63540337-6300-4a7e-a7c1-e9e07ca05bb3)
 
-##Ferramentas utilizadas:
+---
 
-*HTML
+## 🔧 Ferramentas utilizadas  
 
-*CSS
+- HTML  
+- CSS  
+- Flexbox  
 
-*Flex-box
+---
 
-## Feito por
+## 👩‍💻 Feito por  
 
-###Izabela Santos
+**Izabela Santos**  
 
-###Linkedin: https://www.linkedin.com/in/izabela-santos-de-souza
-
-``` 
+📌 [LinkedIn](https://www.linkedin.com/in/izabela-santos-de-souza)  
